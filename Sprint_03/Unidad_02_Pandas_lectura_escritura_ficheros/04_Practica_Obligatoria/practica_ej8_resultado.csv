@@ -1,0 +1,7 @@
+EmployeeID,Name,DepartmentID,Department,Location,Salary,Bonus,Avg_Salary
+101,Alice,1,IT,New York,70000.0,5000.0,70000.0
+102,Bob,2,Sales,Los Angeles,75000.0,7000.0,75000.0
+103,Charlie,1,IT,New York,90000.0,9000.0,90000.0
+104,Diana,3,HR,Chicago,,,
+105,Eve,2,Sales,Los Angeles,70000.0,7000.0,70000.0
+106,Frank,1,IT,New York,,,
